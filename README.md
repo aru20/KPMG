@@ -14,3 +14,17 @@ The client provided KPMG with 3 datasets:
 1. Customer Demographic
 2. Customer Addresses
 3. Transactions data in the past 3 months
+
+## Data Quality Assessment
+Here the objective was to draft an email to the client identifying the data quality issues and strategies to mitigate these issues. A data quality framework was also given
+
+So necessary petroling was done in the dataset and a letter was drafted
+
+## Data Insights
+Now we started to dive deep into the dataset. we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+
+* ### Data exploration 
+It is to familarize with the data, know the charactristics and find intial patterns hidden within it.
+
+* ### Data model Development 
+Here we segragate and indentify the customers according to their transcations done with the company. Recency-Frequency-Monetary (RFM) model was implemented. which classify customers according to how recent they purchase with the company, how frequent do they purchase, and how much revenue was company able to generate.
