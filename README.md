@@ -16,9 +16,9 @@ The client provided KPMG with 3 datasets:
 3. Transaction’s data in the past 3 months
 
 ## Data Quality Assessment
-Here the objective was to draft an email to the client identifying the data quality issues and strategies to mitigate these issues. A data quality framework was also given
+Here the objective was to draft an email to the client identifying the data quality issues and strategies to mitigate these issues. A data quality framework was also given.Please check the [letter](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Faru20%2FOptimize-Marketing-Strategy%2Fmain%2FEmail.docx&wdOrigin=BROWSELINK) attached.
 
-So necessary petroling was done in the dataset and a letter was drafted
+
 
 ## Data Insights
 Now we started to dive deep into the dataset. we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on the following 3 phases as follows - Data Exploration; Model Development and Interpretation.Click [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Faru20%2FOptimize-Marketing-Strategy%2Fmain%2FSprocket_CentalPvtLTD-Data%2520insight.pptx&wdOrigin=BROWSELINK) to know more about Sprocket_CentalPvtLTD-Data insight.
