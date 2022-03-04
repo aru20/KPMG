@@ -28,3 +28,15 @@ It is to familarize with the data, know the charactristics and find intial patte
 
 * ### Data model Development 
 Here we segragate and indentify the customers according to their transcations done with the company. Recency-Frequency-Monetary (RFM) model was implemented. which classify customers according to how recent they purchase with the company, how frequent do they purchase, and how much revenue was company able to generate.
+### RFM Analysis
+RFM analysis is a marketing technique used to quantitatively rank, to identify the best customers and perform targeted marketing campaigns.
+
+![RFM-Analysis](https://user-images.githubusercontent.com/73730336/156713190-405dee58-0b80-4e8e-8318-d856eaedf3f7.JPG)
+### RFM Scores
+
+![RFM-Scores](https://user-images.githubusercontent.com/73730336/156713227-65f1a2df-2f4c-44b7-8714-1158909f58f5.JPG)
+
+![Score2](https://user-images.githubusercontent.com/73730336/156713238-1f5a2ab5-2625-4b5f-9ce1-f1b103706885.JPG)
+### RFM Modelling
+
+![RFM-Modelling](https://user-images.githubusercontent.com/73730336/156713279-580c79a7-cea0-4462-9290-7bf1cdd873f4.JPG)
