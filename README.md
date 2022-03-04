@@ -44,3 +44,5 @@ RFM analysis is a marketing technique used to quantitatively rank, to identify t
 ### Data Presentations
 The below dashboard display our data summary and results of the analysis. 
 ![Dashboard](https://user-images.githubusercontent.com/73730336/156713753-465f97d6-b094-4ab0-ab98-0f6e37295b13.JPG)
+### Tools
+Microsoft Excel,Power Point and Tableau
