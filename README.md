@@ -21,7 +21,7 @@ Here the objective was to draft an email to the client identifying the data qual
 So necessary petroling was done in the dataset and a letter was drafted
 
 ## Data Insights
-Now we started to dive deep into the dataset. we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+Now we started to dive deep into the dataset. we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on the following 3 phases as follows - Data Exploration; Model Development and Interpretation.Click [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Faru20%2FOptimize-Marketing-Strategy%2Fmain%2FSprocket_CentalPvtLTD-Data%2520insight.pptx&wdOrigin=BROWSELINK) to know more about Sprocket_CentalPvtLTD-Data insight.
 
 * ### Data exploration 
 It is to familarize with the data, know the charactristics and find intial patterns hidden within it.
